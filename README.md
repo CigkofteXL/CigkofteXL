@@ -1,6 +1,6 @@
 # Merhaba! Ben CigkofteXL 👋
 
-Ben Harun Durmuş, öğrenciyim ve yazılım ile dijital tasarıma ilgi duyuyorum. Türkiye'nin kalkınmasına katkı sağlamak için hem günlük hayatta işe yarayacak hem de yazılım anlamında faydalı bilgiler, projeler ve içerikler paylaşmayı seviyorum. Eğlenceli, enerjik ve topluma değer katan biriyim!
+Ben CigkofteXL, öğrenciyim ve yazılım ile dijital tasarıma ilgi duyuyorum. Türkiye'nin kalkınmasına katkı sağlamak için hem günlük hayatta işe yarayacak hem de yazılım anlamında faydalı bilgiler, projeler ve içerikler paylaşmayı seviyorum. Eğlenceli, enerjik ve topluma değer katan biriyim!
 
 ---
 
