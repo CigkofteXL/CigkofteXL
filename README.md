@@ -23,7 +23,7 @@ Ben CigkofteXL, öğrenciyim ve yazılım ile dijital tasarıma ilgi duyuyorum. 
 
 ## 🛠️ Kullandığım Araçlar & Teknolojiler
 
-- C#, Unity, WinForms, WPF
+- C#, Javascript, Unity, WinForms, WPF, Node.js, Postcss, React/luicideReact, Tailwind, Vite
 - Photoshop, After Effects, Topaz AI, Adobe Premiere Rush
 - Minecraft sunucu yönetimi & eklenti geliştirme
 
