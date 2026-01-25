@@ -7,7 +7,7 @@ Ben CigkofteXL, öğrenciyim ve yazılım ile dijital tasarıma ilgi duyuyorum. 
 ## 🚀 Hakkımda Kısaca
 
 - 🎮 Yarı sahibi olduğum bir **Minecraft sunucum** var ve sürekli geliştiriyorum!
-- 💻 **C#**, **Unity**, **WinForms**, **WPF** ile yazılım geliştirme deneyimim var.
+- 💻 **Javascript**,**C#**, **Unity**, **WinForms**, **WPF**,**Vite**,**React**  ile yazılım geliştirme deneyimim var.
 - 🎨 **Photoshop**, **After Effects**, **Topaz AI** ve **Adobe Premiere Rush** gibi uygulamaları aktif kullanıyorum — özellikle kalite artışı ve video montajı için.
 - 🚚 Boş vakitlerimde **ETS** (Euro Truck Simulator) oynamaktan keyif alırım.
 - 🏋️‍♂️ Arada bir **calisthenics** (vücut ağırlığıyla spor) yapıyorum.
