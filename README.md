@@ -1,86 +1,223 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Merhaba%2C+Ben+CigkofteXL!+%F0%9F%90%90;Indie+Game+%26+Software+Dev;Unity+%7C+C%23+%7C+Linux+Enthusiast" alt="Typing SVG" />
-</h1>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Merhaba%2C+Ben+CigkofteXL!;Indie+Game+%26+Software+Dev;Unity+%7C+C%23+%7C+Linux+Enthusiast">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Merhaba%2C+Ben+CigkofteXL!;Indie+Game+%26+Software+Dev;Unity+%7C+C%23+%7C+Linux+Enthusiast">
+  </picture>
+</div>
+
+<br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CigkofteXL&label=Profil+Ziyaret%C3%A7isi&color=00F2FE&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Odak-Game_%26_Software_Development-00F2FE?style=for-the-badge&labelColor=0D1117">
+  <img src="https://img.shields.io/badge/Platform-Fedora_KDE_(Wayland)-294172?style=for-the-badge&logo=fedora&labelColor=0D1117">
+  <img src="https://img.shields.io/badge/Role-Indie_Developer-FF6B00?style=for-the-badge&labelColor=0D1117">
 </p>
 
+<p align="center">
+  <a href="https://varietyshop.com.tr"><img src="https://img.shields.io/badge/Website-varietyshop.com.tr-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=0D1117"></a>
+  <a href="https://discord.gg/eTAXD554Ab"><img src="https://img.shields.io/badge/Discord-VarietyShop-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117"></a>
+  <a href="https://itemsatis.com/p/VarietyShop"><img src="https://img.shields.io/badge/Store-Itemsatış-FF6B00?style=for-the-badge&logo=shopify&logoColor=white&labelColor=0D1117"></a>
+  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-%40varietyshop-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117"></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CigkofteXL&label=PROFILE+VIEWS&style=for-the-badge&color=00F2FE&labelColor=0D1117">
+  <img src="https://img.shields.io/github/followers/CigkofteXL?style=for-the-badge&logo=github&color=5865F2&labelColor=0D1117">
+  <img src="https://img.shields.io/github/stars/CigkofteXL?style=for-the-badge&logo=github&color=FF6B00&labelColor=0D1117">
+</p>
+
+---
+
 ```yaml
-kullanici_adi: CigkofteXL
-ana_odak: Unity (C#) Game Dev, Masaüstü & Web Uygulamaları
-isletim_sistemi: Fedora KDE Spin (Wayland)
-hedef: "İnsanlığa, topluma ve ülkeye faydalı yazılımlar geliştirerek değer katmak."
+👤 kullanici:
+  adi: CigkofteXL
+  rol: Indie Game Developer | Full-Stack Developer | Dijital İçerik Üreticisi
+  konum: Türkiye
+  meslek: Öğrenci
+
+🎯 ana_odaklar:
+  - Unity (C#) ile bağımsız oyun geliştirme
+  - Masaüstü & web uygulamaları (.NET, React)
+  - E-ticaret ekosistemi & topluluk yönetimi
+  - Dijital tasarım & video prodüksiyon
+
+💾 tech_stack:
+  diller: [C#, JavaScript, TypeScript, SQL]
+  oyun: [Unity, Monogame]
+  frontend: [React, Vite, Tailwind CSS, PostCSS]
+  backend: [Node.js, .NET, Express]
+  desktop: [WinForms, WPF]
+  tasarim: [Photoshop, After Effects, Premiere Rush, Topaz AI]
+  sistem: [Fedora KDE, Linux, Git, Docker]
+
+🌐 isletme:
+  - VarietyShop (E-ticaret & Topluluk)
+  - Minecraft Sunucu Yönetimi
+  - Dijital Ürün Satışı (Itemsatış)
+
+🧠 felsefe: "İnsanlığa, topluma ve ülkeye faydalı yazılımlar geliştirerek değer katmak."
 ```
 
 ---
 
-### 🧰 Tech Stack
+## 🏆 Başarılar & Sertifikalar
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
+  <img src="https://github-profile-trophy.vercel.app/?username=CigkofteXL&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
 </p>
 
 ---
 
-### 📌 Pinned Repositories
+## ⚡ Yetenek & Teknoloji Haritası
 
-> *Buraya öne çıkarmak istediğin repo'ların linklerini ekleyebilirsin.*
+<details open>
+<summary><b>🎮 Game Development</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/Monogame-E73C00?style=for-the-badge&logo=monogame&logoColor=white">
+</p>
+</details>
 
-| Repo | Açıklama |
-|------|----------|
-| 🔗 [`/CigkofteXL/repo-adi`](https://github.com/CigkofteXL) | Proje açıklaması |
-| 🔗 [`/CigkofteXL/repo-adi`](https://github.com/CigkofteXL) | Proje açıklaması |
-| 🔗 [`/CigkofteXL/repo-adi`](https://github.com/CigkofteXL) | Proje açıklaması |
+<details open>
+<summary><b>💻 Web & Frontend</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
+</p>
+</details>
+
+<details open>
+<summary><b>🖥️ Desktop & Backend</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+  <img src="https://img.shields.io/badge/WinForms-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+  <img src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
+</p>
+</details>
+
+<details open>
+<summary><b>🎨 Tasarım & Medya</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
+  <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white">
+  <img src="https://img.shields.io/badge/Premiere_Rush-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white">
+  <img src="https://img.shields.io/badge/Topaz_AI-FF6B00?style=for-the-badge&logo=topaz&logoColor=white">
+</p>
+</details>
+
+<details open>
+<summary><b>🐧 Sistem & Araçlar</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/Fedora_KDE-294172?style=for-the-badge&logo=fedora&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+</p>
+</details>
 
 ---
 
-### 🌐 Ekosistem & Bağlantılar
-
-| Platform | Link |
-|----------|------|
-| 🛍️ **VarietyShop** | [varietyshop.com.tr](https://varietyshop.com.tr) |
-| 💬 **Discord (VarietyShop)** | [discord.gg/eTAXD554Ab](https://discord.gg/eTAXD554Ab) |
-| ⛏️ **Minecraft Sunucu** | [discord.gg/GYKnBYqrqh](https://discord.gg/GYKnBYqrqh) |
-| 🛒 **Itemsatış Mağazası** | [itemsatis.com/p/VarietyShop](https://www.itemsatis.com/p/VarietyShop) |
-
----
-
-### 🎯 İlgi Alanları
-
-- 🎮 Oyun geliştirme (Unity, C#)
-- 🐧 Linux & sistem özelleştirme
-- 🖌️ Dijital tasarım & video montaj
-- 🏋️‍♂️ Calisthenics
-- 🚚 Euro Truck Simulator
-
----
-
-### 📊 GitHub Stats
+## 🚀 Öne Çıkan Projeler
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CigkofteXL&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CigkofteXL&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <a href="https://github.com/CigkofteXL">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CigkofteXL&repo=VARIETY-SHOP&theme=tokyonight&hide_border=true&bg_color=0D1117&description_lines_count=2" />
+  </a>
+  <a href="https://github.com/CigkofteXL">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CigkofteXL&repo=My-Port-Website&theme=tokyonight&hide_border=true&bg_color=0D1117&description_lines_count=2" />
+  </a>
+  <a href="https://github.com/CigkofteXL">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CigkofteXL&repo=Unity-Game-Project&theme=tokyonight&hide_border=true&bg_color=0D1117&description_lines_count=2" />
+  </a>
+  <a href="https://github.com/CigkofteXL">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CigkofteXL&repo=Discord-Bot&theme=tokyonight&hide_border=true&bg_color=0D1117&description_lines_count=2" />
+  </a>
+</p>
+
+---
+
+## 🌐 Ekosistem & Topluluklar
+
+| Kanal | Açıklama | Bağlantı |
+|-------|----------|----------|
+| 🌍 **Website** | VarietyShop ana platform ve duyurular | [varietyshop.com.tr](https://varietyshop.com.tr) |
+| 💬 **Discord (Ana)** | E-ticaret, yazılım yardımlaşması, çekilişler | [Katıl](https://discord.gg/eTAXD554Ab) |
+| ⛏️ **Discord (Minecraft)** | Özel eklentili Minecraft sunucusu & etkinlikler | [Katıl](https://discord.gg/GYKnBYqrqh) |
+| 🛒 **Itemsatış** | Dijital ürün mağazası | [İncele](https://www.itemsatis.com/p/VarietyShop) |
+| 📸 **Instagram** | Görsel içerik & duyurular | [@varietyshop](https://instagram.com) |
+| 🎵 **Spotify** | Çalma listeleri & müzik keyfi | [Takip et](https://open.spotify.com) |
+
+---
+
+## 📊 GitHub İstatistikleri
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CigkofteXL&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true&rank_icon=percentile" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CigkofteXL&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" height="180" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CigkofteXL&theme=tokyonight&hide_border=true&background=0D1117&dates=FFFFFF&sideLabels=00F2FE" alt="Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CigkofteXL&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F2FE&line=00F2FE&point=FF6B00&area=true" alt="Activity Graph" />
+</div>
+
+---
+
+## 🎯 İlgi Alanları & İlhamlar
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🎮_Game_Dev-Unity%20%26%20C%23-00F2FE?style=for-the-badge&labelColor=0D1117">
+  <img src="https://img.shields.io/badge/🐧_Linux-Fedora%20%26%20KDE-294172?style=for-the-badge&labelColor=0D1117">
+  <img src="https://img.shields.io/badge/🎨_Design-Adobe%20Creative%20Cloud-31A8FF?style=for-the-badge&labelColor=0D1117">
+  <img src="https://img.shields.io/badge/🏋️‍♂️_Calisthenics-Fitness-E4405F?style=for-the-badge&labelColor=0D1117">
+  <img src="https://img.shields.io/badge/🚚_ETS2-Euro%20Truck%20Sim-FF6B00?style=for-the-badge&labelColor=0D1117">
+</p>
+
+> **Örnek Aldıklarım:** Hz. Muhammed (S.A.V.) • Sahabe-i Kiram (R.A.) • Islam Makhachev 🥊 • Lionel Messi 🐐
+
+---
+
+## 📬 İletişim & Destek
+
+<p align="center">
+  <a href="https://discord.com/users/cigkoftexl">
+    <img src="https://img.shields.io/badge/Discord-cigkoftexl-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117">
+  </a>
+  <a href="https://discord.gg/eTAXD554Ab">
+    <img src="https://img.shields.io/badge/Discord%20Sunucu-VarietyShop-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117">
+  </a>
+  <a href="https://varietyshop.com.tr">
+    <img src="https://img.shields.io/badge/Website-varietyshop.com.tr-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=0D1117">
+  </a>
+  <a href="mailto:iletisim@varietyshop.com.tr">
+    <img src="https://img.shields.io/badge/Email-iletisim@varietyshop.com.tr-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117">
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CigkofteXL&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <i>Herhangi bir sorun, iş birliği veya proje için her zaman açığım!</i>
 </p>
 
 ---
 
 <p align="center">
-  <i>Discord: <b>cigkoftexl</b> — eklemek isteyen herkese kapım açık!</i>
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F2FE&height=120&section=footer" width="100%" />
+  <a href="https://github.com/CigkofteXL">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,11,19&height=150&section=footer&text=CigkofteXL%20%E2%80%A2%202024%F0%9F%94%A5&fontSize=24&fontColor=00F2FE&fontAlignY=75" width="100%"/>
+  </a>
 </p>
