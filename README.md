@@ -218,6 +218,6 @@
 
 <p align="center">
   <a href="https://github.com/CigkofteXL">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,11,19&height=150&section=footer&text=CigkofteXL%20%E2%80%A2%202024%F0%9F%94%A5&fontSize=24&fontColor=00F2FE&fontAlignY=75" width="100%"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,11,19&height=150&section=footer&text=CigkofteXL%20%E2%80%A2%202026%F0%9F%94%A5&fontSize=24&fontColor=00F2FE&fontAlignY=75" width="100%"/>
   </a>
 </p>
