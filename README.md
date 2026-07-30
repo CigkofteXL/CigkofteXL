@@ -1,6 +1,6 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Merhaba%2C+Ben+CigkofteXL!;Indie+Game+%26+Software+Dev;Unity+%7C+C%23+%7C+Linux+Enthusiast">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Hello%2C+I+am+CigkofteXL!;Indie+Game+%26+Software+Dev;Unity+%7C+C%23+%7C+Linux+Enthusiast">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Merhaba%2C+Ben+CigkofteXL!;Indie+Game+%26+Software+Dev;Unity+%7C+C%23+%7C+Linux+Enthusiast">
   </picture>
 </div>
@@ -8,13 +8,13 @@
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Odak-Game_%26_Software_Development-8B0000?style=for-the-badge&labelColor=0D1117">
+  <img src="https://img.shields.io/badge/Focus-Game_%26_Software_Development-8B0000?style=for-the-badge&labelColor=0D1117">
   <img src="https://img.shields.io/badge/Platform-Fedora_KDE_(Wayland)-294172?style=for-the-badge&logo=fedora&labelColor=0D1117">
   <img src="https://img.shields.io/badge/Role-Indie_Developer-800080?style=for-the-badge&labelColor=0D1117">
 </p>
 
 <p align="center">
-  <a href="https://varietyshop.com.tr"><img src="https://img.shields.io/badge/Website-varietyshop.com.tr-FFD700?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=0D1117"></a>
+  <a href="https://varietyshop.com.tr"><img src="https://img.shields.io/badge/Website-varietyshop.com.tr-FFD700?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117"></a>
   <a href="https://discord.gg/eTAXD554Ab"><img src="https://img.shields.io/badge/Discord-VarietyShop Community-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117"></a>
   <a href="https://itemsatis.com/p/VarietyShop"><img src="https://img.shields.io/badge/Store-Itemsatış-50C878?style=for-the-badge&logo=shopify&logoColor=white&labelColor=0D1117"></a>
 </p>
