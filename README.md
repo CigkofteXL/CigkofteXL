@@ -30,9 +30,9 @@
 ```
 👤 profile:
   username: CigkofteXL
-  role: Indie Game Developer | Full-Stack Developer | Dijital İçerik Üreticisi
+  role: Indie Game Developer | Full-Stack Developer | Content Creator
   location: Türkiye
-  occupation: Öğrenci
+  occupation: Student
 
 🎯 core_focus:
   - Indie game development with Unity (C#)
