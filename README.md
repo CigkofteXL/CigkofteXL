@@ -74,8 +74,8 @@
 <br>
 <p>
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
   <img src="https://img.shields.io/badge/Godot-478cbf?style=for-the-badge&logo=godotengine&logoColor=white">
+   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
 </p>
 </details>
 
@@ -97,9 +97,10 @@
 <summary><b>🖥️ Application & Backend</b></summary>
 <br>
 <p>
+  <img src="https://img.shields.io/badge/Avalonia_UI-8A2BE2?style=for-the-badge&logo=dotnet&logoColor=white">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
-  <img src="https://img.shields.io/badge/WinForms-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
-  <img src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
 </p>
 </details>
@@ -108,10 +109,12 @@
 <summary><b>🎨 Design & Media</b></summary>
 <br>
 <p>
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
-  <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white">
-  <img src="https://img.shields.io/badge/Premiere_Rush-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white">
-  <img src="https://img.shields.io/badge/Topaz_AI-FF6B00?style=for-the-badge&logo=topaz&logoColor=white">
+  <img src="https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white">
+  <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white">
+  <img src="https://img.shields.io/badge/Krita-333333?style=for-the-badge&logo=krita&logoColor=white">
+  <img src="https://img.shields.io/badge/Kdenlive-5C82A6?style=for-the-badge&logo=kdenlive&logoColor=white">
+  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </p>
 </details>
 
@@ -121,9 +124,11 @@
 <p>
   <img src="https://img.shields.io/badge/Fedora_KDE-294172?style=for-the-badge&logo=fedora&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
 </p>
 </details>
 
@@ -183,7 +188,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/🎮_Game_Dev-Unity%20%26%20C%23-00F2FE?style=for-the-badge&labelColor=0D1117">
   <img src="https://img.shields.io/badge/🐧_Linux-Fedora%20%26%20KDE-294172?style=for-the-badge&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/🎨_Design-Adobe%20Creative%20Cloud-31A8FF?style=for-the-badge&labelColor=0D1117">
+  <img src="https://img.shields.io/badge/🎨_Design-Linux_Native-31A8FF?style=for-the-badge&labelColor=0D1117">
   <img src="https://img.shields.io/badge/🏋️‍♂️_Calisthenics-Fitness-E4405F?style=for-the-badge&labelColor=0D1117">
   <img src="https://img.shields.io/badge/🚚_ETS2-Euro%20Truck%20Sim-FF6B00?style=for-the-badge&labelColor=0D1117">
 </p>
