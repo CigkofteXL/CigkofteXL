@@ -41,11 +41,11 @@
   - Dijital tasarım & video prodüksiyon
 
 💾 tech_stack:
-  diller: [C#, JavaScript, TypeScript, SQL]
+  diller: [C#, JavaScript, Python, Dart , GO]
   oyun: [Unity, Godot]
   frontend: [React, Vite, Tailwind CSS, PostCSS]
   backend: [Node.js, .NET, Express]
-  desktop: [WinForms, WPF]
+  desktop: [WinForms, WPF, Avalonia,]
   tasarim: [Photoshop, After Effects, Premiere Rush, Topaz AI]
   sistem: [Fedora KDE, Linux, Git, Docker]
 
