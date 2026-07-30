@@ -27,39 +27,39 @@
 
 ---
 
-```yaml
-👤 kullanici:
-  adi: CigkofteXL
-  rol: Indie Game Developer | Full-Stack Developer | Dijital İçerik Üreticisi
-  konum: Türkiye
-  meslek: Öğrenci
+```
+👤 profile:
+  username: CigkofteXL
+  role: Indie Game Developer | Full-Stack Developer | Dijital İçerik Üreticisi
+  location: Türkiye
+  occupation: Öğrenci
 
-🎯 ana_odaklar:
-  - Unity (C#) ile bağımsız oyun geliştirme
-  - Masaüstü & web uygulamaları (.NET, React)
-  - E-ticaret ekosistemi & topluluk yönetimi
-  - Dijital tasarım & video prodüksiyon
+🎯 core_focus:
+  - Indie game development with Unity (C#)
+  - Desktop, Web & Mobile Applications (.NET, React, Flutter)
+  - E-commerce ecosystem & community management
+  - Privacy-first & psychology-driven personal development tools
 
 💾 tech_stack:
-  diller: [C#, JavaScript, Python, Dart , GO]
-  oyun: [Unity, Godot]
+  languages: [C#, JavaScript, Python, Dart , GO]
+  game_dev: [Unity, Godot]
   frontend: [React, Vite, Tailwind CSS, PostCSS]
   backend: [Node.js, .NET, Express]
-  desktop: [WinForms, WPF, Avalonia,]
-  tasarim: [Photoshop, After Effects, Premiere Rush, Topaz AI]
-  sistem: [Fedora KDE, Linux, Git, Docker]
+  applications: [Avalonia UI, Electron, Flutter] 
+  design: [GIMP, Inkscape, Krita, Kdenlive, Blender, Figma] 
+  system: [Fedora KDE, Linux, Git, Docker]
 
-🌐 isletme:
-  - VarietyShop (E-ticaret & Topluluk)
-  - Minecraft Sunucu Yönetimi
-  - Dijital Ürün Satışı (Itemsatış)
+🌐 ventures:
+  - VarietyShop (E-commerce & Community)
+  - Digital Product Sales (Itemsatis)
+  - Minecraft Server Management
 
-🧠 felsefe: "İnsanlığa, topluma ve ülkeye faydalı yazılımlar geliştirerek değer katmak."
+🧠 philosophy: "Building impactful software to serve humanity, society, and the community."
 ```
 
 ---
 
-## 🏆 Başarılar & Sertifikalar
+## 🏆 Achievements & Certifications
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=CigkofteXL&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
@@ -67,7 +67,7 @@
 
 ---
 
-## ⚡ Yetenek & Teknoloji Haritası
+## ⚡ Skills & Tech Stack
 
 <details open>
 <summary><b>🎮 Game Development</b></summary>
@@ -129,7 +129,7 @@
 
 ---
 
-## 🚀 Öne Çıkan Projeler
+## 🚀 Featured Projects
 
 <p align="center">
   <a href="https://github.com/CigkofteXL">
@@ -148,7 +148,7 @@
 
 ---
 
-## 🌐 Ekosistem & Topluluklar
+## 🌐 Ecosystem & Communities
 
 | Kanal | Açıklama | Bağlantı |
 |-------|----------|----------|
@@ -161,7 +161,7 @@
 
 ---
 
-## 📊 GitHub İstatistikleri
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CigkofteXL&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true&rank_icon=percentile" height="180" />
@@ -178,7 +178,7 @@
 
 ---
 
-## 🎯 İlgi Alanları & İlhamlar
+## 🎯 Interests & Inspirations
 
 <p align="center">
   <img src="https://img.shields.io/badge/🎮_Game_Dev-Unity%20%26%20C%23-00F2FE?style=for-the-badge&labelColor=0D1117">
@@ -192,7 +192,7 @@
 
 ---
 
-## 📬 İletişim & Destek
+## 📬 Contact & Support
 
 <p align="center">
   <a href="https://discord.com/users/cigkoftexl">
