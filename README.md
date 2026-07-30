@@ -8,20 +8,19 @@
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Odak-Game_%26_Software_Development-00F2FE?style=for-the-badge&labelColor=0D1117">
+  <img src="https://img.shields.io/badge/Odak-Game_%26_Software_Development-8B0000?style=for-the-badge&labelColor=0D1117">
   <img src="https://img.shields.io/badge/Platform-Fedora_KDE_(Wayland)-294172?style=for-the-badge&logo=fedora&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/Role-Indie_Developer-FF6B00?style=for-the-badge&labelColor=0D1117">
+  <img src="https://img.shields.io/badge/Role-Indie_Developer-800080?style=for-the-badge&labelColor=0D1117">
 </p>
 
 <p align="center">
-  <a href="https://varietyshop.com.tr"><img src="https://img.shields.io/badge/Website-varietyshop.com.tr-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=0D1117"></a>
-  <a href="https://discord.gg/eTAXD554Ab"><img src="https://img.shields.io/badge/Discord-VarietyShop-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117"></a>
-  <a href="https://itemsatis.com/p/VarietyShop"><img src="https://img.shields.io/badge/Store-Itemsatış-FF6B00?style=for-the-badge&logo=shopify&logoColor=white&labelColor=0D1117"></a>
-  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-%40varietyshop-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117"></a>
+  <a href="https://varietyshop.com.tr"><img src="https://img.shields.io/badge/Website-varietyshop.com.tr-FFD700?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=0D1117"></a>
+  <a href="https://discord.gg/eTAXD554Ab"><img src="https://img.shields.io/badge/Discord-VarietyShop Community-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117"></a>
+  <a href="https://itemsatis.com/p/VarietyShop"><img src="https://img.shields.io/badge/Store-Itemsatış-50C878?style=for-the-badge&logo=shopify&logoColor=white&labelColor=0D1117"></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CigkofteXL&label=PROFILE+VIEWS&style=for-the-badge&color=00F2FE&labelColor=0D1117">
+  <img src="https://komarev.com/ghpvc/?username=CigkofteXL&label=PROFILE+VIEWS&style=for-the-badge&color=00CED1&labelColor=0D1117">
   <img src="https://img.shields.io/github/followers/CigkofteXL?style=for-the-badge&logo=github&color=5865F2&labelColor=0D1117">
   <img src="https://img.shields.io/github/stars/CigkofteXL?style=for-the-badge&logo=github&color=FF6B00&labelColor=0D1117">
 </p>
@@ -43,7 +42,7 @@
 
 💾 tech_stack:
   diller: [C#, JavaScript, TypeScript, SQL]
-  oyun: [Unity, Monogame]
+  oyun: [Unity, Godot]
   frontend: [React, Vite, Tailwind CSS, PostCSS]
   backend: [Node.js, .NET, Express]
   desktop: [WinForms, WPF]
@@ -76,7 +75,7 @@
 <p>
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/Monogame-E73C00?style=for-the-badge&logo=monogame&logoColor=white">
+  <img src="https://img.shields.io/badge/Godot-478cbf?style=for-the-badge&logo=godotengine&logoColor=white">
 </p>
 </details>
 
