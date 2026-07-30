@@ -94,7 +94,7 @@
 </details>
 
 <details open>
-<summary><b>🖥️ Desktop & Backend</b></summary>
+<summary><b>🖥️ Application & Backend</b></summary>
 <br>
 <p>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
@@ -105,7 +105,7 @@
 </details>
 
 <details open>
-<summary><b>🎨 Tasarım & Medya</b></summary>
+<summary><b>🎨 Design & Media</b></summary>
 <br>
 <p>
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
@@ -116,7 +116,7 @@
 </details>
 
 <details open>
-<summary><b>🐧 Sistem & Araçlar</b></summary>
+<summary><b>🐧 Systems & Tools</b></summary>
 <br>
 <p>
   <img src="https://img.shields.io/badge/Fedora_KDE-294172?style=for-the-badge&logo=fedora&logoColor=white">
@@ -188,7 +188,7 @@
   <img src="https://img.shields.io/badge/🚚_ETS2-Euro%20Truck%20Sim-FF6B00?style=for-the-badge&labelColor=0D1117">
 </p>
 
-> **Örnek Aldıklarım:** Hz. Muhammed (S.A.V.) • Sahabe-i Kiram (R.A.) • Islam Makhachev 🥊 • Lionel Messi 🐐
+> **Role Models:** Hz. Muhammed (S.A.V.) • Sahabe-i Kiram (R.A.) • Islam Makhachev 🥊 • Lionel Messi 🐐
 
 ---
 
