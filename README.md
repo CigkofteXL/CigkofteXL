@@ -155,14 +155,12 @@
 
 ## 🌐 Ecosystem & Communities
 
-| Kanal | Açıklama | Bağlantı |
+| Channel | Description | Link |
 |-------|----------|----------|
-| 🌍 **Website** | VarietyShop ana platform ve duyurular | [varietyshop.com.tr](https://varietyshop.com.tr) |
-| 💬 **Discord (Ana)** | E-ticaret, yazılım yardımlaşması, çekilişler | [Katıl](https://discord.gg/eTAXD554Ab) |
-| ⛏️ **Discord (Minecraft)** | Özel eklentili Minecraft sunucusu & etkinlikler | [Katıl](https://discord.gg/GYKnBYqrqh) |
-| 🛒 **Itemsatış** | Dijital ürün mağazası | [İncele](https://www.itemsatis.com/p/VarietyShop) |
-| 📸 **Instagram** | Görsel içerik & duyurular | [@varietyshop](https://instagram.com) |
-| 🎵 **Spotify** | Çalma listeleri & müzik keyfi | [Takip et](https://open.spotify.com) |
+| 🌍 **Website** | VarietyShop main platform & announcements | [varietyshop.com.tr](https://varietyshop.com.tr) |
+| 💬 **Discord (Main)** | E-commerce, software help & giveaways | [Join](https://discord.gg/eTAXD554Ab) |
+| ⛏️ **Discord (Minecraft)** | Custom plugin Minecraft server & events | [Join](https://discord.gg/GYKnBYqrqh) |
+| 🛒 **Itemsatış** | Digital product store | [Inspect](https://www.itemsatis.com/p/VarietyShop) |
 
 ---
 
