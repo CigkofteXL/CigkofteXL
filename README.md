@@ -213,7 +213,7 @@
 </p>
 
 <p align="center">
-  <i>Herhangi bir sorun, iş birliği veya proje için her zaman açığım!</i>
+  <i>Feel free to reach out for any questions, collaborations, or project ideas!</i>
 </p>
 
 ---
