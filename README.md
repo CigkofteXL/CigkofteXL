@@ -123,21 +123,20 @@
 </details>
 
 ---
-
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/CigkofteXL">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CigkofteXL&repo=VARIETY-SHOP&theme=tokyonight&hide_border=true&bg_color=0D1117&description_lines_count=2" />
+  <a href="https://github.com/CigkofteXL/api.varietyshop.com.tr">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CigkofteXL&repo=api.varietyshop.com.tr&theme=tokyonight&hide_border=true&bg_color=0D1117&description_lines_count=2" />
   </a>
-  <a href="https://github.com/CigkofteXL">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CigkofteXL&repo=My-Port-Website&theme=tokyonight&hide_border=true&bg_color=0D1117&description_lines_count=2" />
+  <a href="https://github.com/CigkofteXL/varietyshop.com.tr">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CigkofteXL&repo=varietyshop.com.tr&theme=tokyonight&hide_border=true&bg_color=0D1117&description_lines_count=2" />
   </a>
-  <a href="https://github.com/CigkofteXL">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CigkofteXL&repo=Unity-Game-Project&theme=tokyonight&hide_border=true&bg_color=0D1117&description_lines_count=2" />
+  <a href="https://github.com/CigkofteXL/Wolvesville-Client">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CigkofteXL&repo=Wolvesville-Client&theme=tokyonight&hide_border=true&bg_color=0D1117&description_lines_count=2" />
   </a>
-  <a href="https://github.com/CigkofteXL">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CigkofteXL&repo=Discord-Bot&theme=tokyonight&hide_border=true&bg_color=0D1117&description_lines_count=2" />
+  <a href="https://github.com/CigkofteXL/Wolvesville-Boru">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CigkofteXL&repo=Wolvesville-Boru&theme=tokyonight&hide_border=true&bg_color=0D1117&description_lines_count=2" />
   </a>
 </p>
 
