@@ -57,16 +57,6 @@
 🧠 philosophy: "Building impactful software to serve humanity, society, and the community."
 ```
 
----
-
-## 🏆 Achievements & Certifications
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CigkofteXL&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
-</p>
-
----
-
 ## ⚡ Skills & Tech Stack
 
 <details open>
@@ -167,13 +157,17 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CigkofteXL&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true&rank_icon=percentile" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CigkofteXL&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=CigkofteXL&theme=tokyonight&hide_border=true&background=0D1117&dates=FFFFFF&sideLabels=00F2FE" alt="Streak Stats" />
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CigkofteXL&theme=tokyonight&hide_border=true&background=0D1117&dates=FFFFFF&sideLabels=00F2FE" alt="Streak Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=CigkofteXL&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&rank_icon=percentile" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CigkofteXL&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" height="180" alt="Top Languages" />
 </div>
+
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CigkofteXL&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F2FE&line=00F2FE&point=FF6B00&area=true" alt="Activity Graph" />
