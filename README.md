@@ -30,23 +30,22 @@
 ```
 👤 profile:
   username: CigkofteXL
-  role: Indie Game Developer | Full-Stack Developer | Content Creator
+  role: Buisness Man | Full-Stack Developer | Content Creator
   location: Türkiye
   occupation: Student
 
 🎯 core_focus:
-  - Indie game development with Unity (C#)
+  - Solving global problems
   - Desktop, Web & Mobile Applications (.NET, React, Flutter)
   - E-commerce ecosystem & community management
   - Privacy-first & psychology-driven personal development tools
 
 💾 tech_stack:
-  languages: [C#, JavaScript, Python, Dart , GO]
-  game_dev: [Unity, Godot]
-  frontend: [React, Vite, Tailwind CSS, PostCSS]
-  backend: [Node.js, .NET, Express]
+  languages: [C#, JavaScript, Dart]
+  frontend: [React, Vite, Tailwind CSS, PostCSS, Astro]
+  backend: [Node.js, .NET]
   applications: [Avalonia UI, Electron, Flutter] 
-  design: [GIMP, Inkscape, Krita, Kdenlive, Blender, Figma] 
+  design: [GIMP, Inkscape, Krita, Kdenlive, Figma] 
   system: [Fedora KDE, Linux, Git, Docker]
 
 🌐 ventures:
@@ -58,16 +57,6 @@
 ```
 
 ## ⚡ Skills & Tech Stack
-
-<details open>
-<summary><b>🎮 Game Development</b></summary>
-<br>
-<p>
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
-  <img src="https://img.shields.io/badge/Godot-478cbf?style=for-the-badge&logo=godotengine&logoColor=white">
-   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
-</p>
-</details>
 
 <details open>
 <summary><b>💻 Web & Frontend</b></summary>
@@ -103,7 +92,6 @@
   <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white">
   <img src="https://img.shields.io/badge/Krita-333333?style=for-the-badge&logo=krita&logoColor=white">
   <img src="https://img.shields.io/badge/Kdenlive-5C82A6?style=for-the-badge&logo=kdenlive&logoColor=white">
-  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </p>
 </details>
@@ -123,24 +111,6 @@
 </details>
 
 ---
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/CigkofteXL/api.varietyshop.com.tr">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CigkofteXL&repo=api.varietyshop.com.tr&theme=tokyonight&hide_border=true&bg_color=0D1117&description_lines_count=2" />
-  </a>
-  <a href="https://github.com/CigkofteXL/varietyshop.com.tr">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CigkofteXL&repo=varietyshop.com.tr&theme=tokyonight&hide_border=true&bg_color=0D1117&description_lines_count=2" />
-  </a>
-  <a href="https://github.com/CigkofteXL/Wolvesville-Client">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CigkofteXL&repo=Wolvesville-Client&theme=tokyonight&hide_border=true&bg_color=0D1117&description_lines_count=2" />
-  </a>
-  <a href="https://github.com/CigkofteXL/Wolvesville-Boru">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CigkofteXL&repo=Wolvesville-Boru&theme=tokyonight&hide_border=true&bg_color=0D1117&description_lines_count=2" />
-  </a>
-</p>
-
----
 
 ## 🌐 Ecosystem & Communities
 
@@ -150,27 +120,6 @@
 | 💬 **Discord (Main)** | E-commerce, software help & giveaways | [Join](https://discord.gg/eTAXD554Ab) |
 | ⛏️ **Discord (Minecraft)** | Custom plugin Minecraft server & events | [Join](https://discord.gg/GYKnBYqrqh) |
 | 🛒 **Itemsatış** | Digital product store | [Inspect](https://www.itemsatis.com/p/VarietyShop) |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=CigkofteXL&theme=tokyonight&hide_border=true&background=0D1117&dates=FFFFFF&sideLabels=00F2FE" alt="Streak Stats" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=CigkofteXL&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&rank_icon=percentile" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CigkofteXL&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" height="180" alt="Top Languages" />
-</div>
-
-
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CigkofteXL&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F2FE&line=00F2FE&point=FF6B00&area=true" alt="Activity Graph" />
-</div>
 
 ---
 
@@ -213,6 +162,6 @@
 
 <p align="center">
   <a href="https://github.com/CigkofteXL">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,11,19&height=150&section=footer&text=CigkofteXL%20%E2%80%A2%202026%F0%9F%94%A5&fontSize=24&fontColor=00F2FE&fontAlignY=75" width="100%"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,11,19&height=150&section=footer&text=CigkofteXL%20%E2%80%A2%202027%F0%9F%94%A5&fontSize=24&fontColor=00F2FE&fontAlignY=75" width="100%"/>
   </a>
 </p>
