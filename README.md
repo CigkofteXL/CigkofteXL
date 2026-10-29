@@ -126,14 +126,13 @@
 ## 🎯 Interests & Inspirations
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎮_Game_Dev-Unity%20%26%20C%23-00F2FE?style=for-the-badge&labelColor=0D1117">
+  <img src="https://img.shields.io/badge/🏦_Trade-Shop%20%26%20C%23-00F2FE?style=for-the-badge&labelColor=0D1117">
   <img src="https://img.shields.io/badge/🐧_Linux-Fedora%20%26%20KDE-294172?style=for-the-badge&labelColor=0D1117">
   <img src="https://img.shields.io/badge/🎨_Design-Linux_Native-31A8FF?style=for-the-badge&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/🏋️‍♂️_Calisthenics-Fitness-E4405F?style=for-the-badge&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/🚚_ETS2-Euro%20Truck%20Sim-FF6B00?style=for-the-badge&labelColor=0D1117">
+  <img src="https://img.shields.io/badge/🏋️‍♂️_Sport-Calisthenics-E4405F?style=for-the-badge&labelColor=0D1117">
 </p>
 
-> **Role Models:** Hz. Muhammed (S.A.V.) • Sahabe-i Kiram (R.A.) • Islam Makhachev 🥊 • Lionel Messi 🐐
+> **Role Models:** Hz. Muhammed (S.A.V.) • Sahabe-i Kiram (R.A.) • Fatih Sultan Mehmet • Yavuz Sultan Selim • Islam Makhachev 
 
 ---
 
