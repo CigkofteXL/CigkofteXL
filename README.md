@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Hello%2C+I+am+CigkofteXL!;Bizness+Man+%26+Software+Dev;Unity+%7C+C%23+%7C+Linux+Enthusiast">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Merhaba%2C+Ben+CigkofteXL!;Indie+Game+%26+Software+Dev;Unity+%7C+C%23+%7C+Linux+Enthusiast">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Hello%2C+I+am+CigkofteXL!;Buisness+Man+%26+Software+Dev;Trade+%7C+C%23+%7C+Linux+Enthusiast">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Merhaba%2C+Ben+CigkofteXL!;Buisness+Man+%26+Software+Dev;Trade+%7C+C%23+%7C+Linux+Enthusiast">
   </picture>
 </div>
 
