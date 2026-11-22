@@ -21,5 +21,5 @@ profile:
 stack:
   languages: [C#, JavaScript, TypeScript, Dart]
   web: [Astro, React, Node.js, Tailwind CSS]
-  apps: [.NET, Flutter, Avalonia UI]
+  apps: [.NET, Flutter]
   tools: [Linux, Git, Docker, Bash]
